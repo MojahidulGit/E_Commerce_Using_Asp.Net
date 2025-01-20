@@ -1,0 +1,109 @@
+body {
+    background-color: #CCC;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 900px;
+    border: solid #FFF;
+}
+
+header {
+    background-color: #414141;
+    color: #FFF;
+    text-align: center;
+    padding: 15px;
+}
+header  h3 a {
+    color: #FFF;
+    padding: 8px;
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    text-align: center;
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; color: #FFF; }
+h3 { font-size: 18px; color: #030; border-bottom: 3px solid #FFF; }
+
+nav {
+    width: 25%;
+    float: left;
+}
+
+nav a {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+    color: #FFF;
+    border-bottom: 3px solid #FFF;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #000;
+    background-color: #FFF;
+}
+
+#container {
+    background-color: #888;
+}
+
+section {
+    width: 70%;
+    float: left;
+}
+
+article {
+    background-color: #EEE;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    background-color: #414141;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+
+fieldset {
+    border: 2px solid #FFF;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+    color: #000;
+}
+
+input, select, textarea {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form-group-date-gender {
+    display: flex;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #FFF;
+    cursor: pointer;
+    border: 1px solid #FFF;
+}
+
+input[type="submit"]:hover {
+    background-color: aquamarine;
+    color: #000;
+}
