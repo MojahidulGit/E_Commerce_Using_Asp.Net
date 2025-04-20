@@ -1,0 +1,14 @@
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.exe.config
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.exe
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.pdb
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.csproj.AssemblyReference.cache
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.csproj.CoreCompileInputs.cache
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.exe
+D:\C#\Evidence\Evidence\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.pdb
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.exe.config
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.exe
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\bin\Debug\E_Commerce.pdb
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.csproj.AssemblyReference.cache
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.csproj.CoreCompileInputs.cache
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.exe
+E:\USB Drive\New folder (2)\Nur\Mid-Project\E_Commerce\E_Commerce\obj\Debug\E_Commerce.pdb
